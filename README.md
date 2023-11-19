@@ -24,7 +24,8 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![state](https://github.com/Sookchand/U.S.-States-Game/assets/34344439/ba030b04-3fd5-46a6-ba25-f9f24947672d)
+
 
 
 ## Tech Stack
